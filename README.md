@@ -1,10 +1,10 @@
 ## Copyright & Credits
 
-Survey is a non-commercial, fan-made project created for entertainment purposes.
+Entry_0 is a non-commercial, fan-made project created for entertainment purposes.
 
 All characters, names, music, and other copyrighted material belonging to their respective creators and rights holders remain their property.
 
-Survey is not affiliated with, endorsed by, or officially associated with any referenced franchises or their creators.
+Entry_0 is not affiliated with, endorsed by, or officially associated with any referenced franchises or their creators.
 
 Original code, website design, writing, and original assets © 2026 Revan5551.
 
